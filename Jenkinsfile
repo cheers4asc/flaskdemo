@@ -1,5 +1,5 @@
 // path of the template to use
-def templatePath = 'https://github.com/xphyr/flaskdemo'
+def templatePath = 'https://github.com/cheers4asc/flaskdemo'
 // name of the template that will be created
 def templateName = 'flaskdemo'
 // NOTE, the "pipeline" directive/closure from the declarative pipeline syntax needs to include, or be nested outside,
