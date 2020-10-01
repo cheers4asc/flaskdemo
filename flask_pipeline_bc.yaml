@@ -6,7 +6,7 @@ spec:
   serviceAccount: builder
   source:
     git:
-        uri: https://github.com/xphyr/flaskdemo
+        uri: https://github.com/cheers4asc/flaskdemo
   strategy:
     type: JenkinsPipeline
     jenkinsPipelineStrategy:
